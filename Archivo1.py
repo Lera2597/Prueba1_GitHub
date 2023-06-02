@@ -16,4 +16,5 @@ class carro(vehiculo):
         super().__init__(numero_ruedas,numero_puertas)
         self.Marca = marca
 
-mazda = carro(4,4,"mazda")
+Mazda = carro(4,4,"mazda")
+BMW = carro(4,2,"bmw")
