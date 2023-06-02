@@ -17,4 +17,4 @@ class carro(vehiculo):
         self.Marca = marca
 
 Mazda = carro(4,4,"mazda")
-BMW = carro(4,2,"bmw")
+BMW =carro(4,2,"bmw")
